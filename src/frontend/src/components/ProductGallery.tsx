@@ -73,7 +73,7 @@ export default function ProductGallery() {
               </p>
             </div>
             <a
-              href="tel:+919858516044"
+              href="tel:+919848516044"
               className="mt-6 inline-flex items-center gap-2 bg-white text-primary font-semibold text-sm px-5 py-2.5 rounded-lg hover:opacity-90 transition-opacity"
               data-ocid="gallery.cta_button"
             >

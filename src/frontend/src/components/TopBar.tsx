@@ -6,11 +6,11 @@ export default function TopBar() {
       <div className="max-w-7xl mx-auto flex items-center justify-end gap-2 text-sm">
         <Phone className="w-3.5 h-3.5 flex-shrink-0" />
         <a
-          href="tel:+919858516044"
+          href="tel:+919848516044"
           className="hover:underline font-medium tracking-wide"
           data-ocid="topbar.link"
         >
-          +91 98585 16044
+          +91 98485 16044
         </a>
         <span className="mx-1 opacity-50">|</span>
         <a

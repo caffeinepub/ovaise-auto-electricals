@@ -50,7 +50,7 @@ export default function HeroSection() {
 
           <div className="flex flex-wrap gap-3">
             <a
-              href="tel:+919858516044"
+              href="tel:+919848516044"
               className="inline-flex items-center gap-2 px-6 py-3 bg-primary text-white font-semibold rounded-lg hover:opacity-90 transition-opacity shadow-lg"
               data-ocid="hero.primary_button"
             >
